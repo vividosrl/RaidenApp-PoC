@@ -10,4 +10,4 @@ L'applicazione di Alice visualizzerà il proprio Token balance (RDN).
 Invierà un certo importo a Bob.
 Bob a sua volta invierà metà del suo bilancio a Charlie ed a David.
 
-Termine Use Case 1
+
