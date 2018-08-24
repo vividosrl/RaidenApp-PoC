@@ -1,4 +1,4 @@
-# RaidenApp
+# RaidenApp-PoC
 1st Vivido Raiden App - 
 
 RaidenApp è un'applicazione il cui scopo è quello di testare il funzionamento (al momento su Ropsten) di [Raiden Network](https://github.com/raiden-network/raiden)
