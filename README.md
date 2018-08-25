@@ -4,7 +4,7 @@
 RaidenApp è un'applicazione il cui scopo è quello di testare il funzionamento (al momento su Ropsten) di [Raiden Network](https://github.com/raiden-network/raiden)
 
 [Vivido](https://github.com/raiden-network/raiden)
-[Vivido] (https://www.vivido.it)
+[Vivido] (http://www.vivido.it)
 
 [VividoRaidenToken.sol] (https://github.com/vividosrl/RaidenApp-PoC/blob/master/VividoRaidenToken.sol) 
 
