@@ -3,6 +3,7 @@
 
 RaidenApp è un'applicazione il cui scopo è quello di testare il funzionamento (al momento su Ropsten) di [Raiden Network](https://github.com/raiden-network/raiden)
 
+[VividoRaidenToken.sol] (https://github.com/vividosrl/RaidenApp-PoC/blob/master/VividoRaidenToken.sol) 
 
 # Use Case 1
 L'applicazione di Alice visualizzerà il proprio Token balance (RDN).
