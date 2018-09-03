@@ -11,11 +11,12 @@ INVIO DEI TOKEN
 L'indirizzo 0xbAe2661E1357aB9f22440AdD9BA0a3A9d6f520C0 che nella fase di test dell'infrastruttura Raiden Network ha generato i token VVDO e VVDO1 (entrambi registrati sul network di Raiden Network) invierà 10.000 token (VVDO o VVDO1 da definire) agli Ethereum address associati ai due smartphone che hanno scaricato la RaidenApp-Poc.
 
 FUNZIONALITA' 
+
 Le funzionalità della RaidenApp-Poc sono:
 
 1) Creazione nuovo account Ethereum. Chiave privata salvata sul dispositivo. in questa prima versione non inseriremo nessun controllo di sicurezza, come seed e/o password.
 
-2) Open Channel on Raiden Network.
+2) OPEN CHANNEL
    Per fare questa operazione l'idea è quella che dall'interno dell'app i due corrispndenti si scambino un messaggio (via Telegram/Whatsapp?? quindi devono conoscere l'indirizzo dell'istant messenger del corrispondente) che riporta il proprio indirizzo Ethereum.
    All'interno di questa funzione Open Channel copiamo l'indirizzo che abbiamo ricevuto dal nostro corrispondente. 
    Saranno presenti due bottoni:
