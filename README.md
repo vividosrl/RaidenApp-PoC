@@ -41,7 +41,31 @@ Le funzionalità della RaidenApp-Poc sono:
    c) Lista dei pagamenti
  
  
-# Risorse
+ 
+ # Test da fare
+
+PRELIMINARI: 
+- Create macchine virtuali Linux             OK
+- Geth Ropsten blockchain                    OK
+- Download ultima versione di Raiden Network OK
+
+1° TEST:
+Abbiamo creato due nodi Raiden, ed i pagamenti sono stati effettuati fra questi due:
+- Creazione Token                            OK
+- Registrazione Token                        OK
+- Open Channel                               OK
+- Deposit Channel                            OK
+- Payment                                    OK
+
+2° TEST:
+Creare scenario multinodes.
+Lo scopo è verificare cosa accade se il nodo "partner address" è giù.
+
+3° TEST:
+Testare il funzionamento dei light client
+ 
+ 
+# Note Varie
 
 1) [VividoRaidenToken.sol](https://github.com/vividosrl/RaidenApp-PoC/blob/master/VividoRaidenToken.sol) 
 Smart Contract con il quale è stato creato il token VVDO (VIVIDO) : qty 100.000.000 ; decimals: 18 
