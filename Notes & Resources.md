@@ -1,7 +1,7 @@
 
 
 [0x](https://0xproject.com/) protocols for exchange
-  usato ad esempio di un DEX come [Radar Relay](https://radarrelay.com/), credo sia utilizzato anche da Lighting Network e/o da RGB
+  usato ad esempio in un DEX come [Radar Relay](https://radarrelay.com/), credo sia utilizzato anche da Lighting Network e/o da RGB
 
 [Relayer Network](https://relayer.network/) è la visione del futuro della token economics di Radar Relay (l'ho letto da questo articolo https://medium.com/radarrelay/networked-liquidity-2030d85af897 )
  
